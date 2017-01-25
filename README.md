@@ -1,0 +1,2 @@
+# lpassh
+LastPass SSH Script
